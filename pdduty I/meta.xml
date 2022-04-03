@@ -1,0 +1,55 @@
+<meta>
+
+    <oop>true</oop>
+
+    <script src='index.lua' type='client' cache='false'/>
+    <script src='events.lua' type='server'/>
+    <script src='commands.lua' type='server'/>
+    <script src='license.lua' type='shared'/>
+
+    <file src="components/weapons/weapon0.png" />
+    <file src="components/weapons/weapon1.png" />
+    <file src="components/weapons/weapon10.png" />
+    <file src="components/weapons/weapon11.png" />
+    <file src="components/weapons/weapon12.png" />
+    <file src="components/weapons/weapon13.png" />
+    <file src="components/weapons/weapon14.png" />
+    <file src="components/weapons/weapon15.png" />
+    <file src="components/weapons/weapon16.png" />
+    <file src="components/weapons/weapon17.png" />
+    <file src="components/weapons/weapon18.png" />
+    <file src="components/weapons/weapon2.png" />
+    <file src="components/weapons/weapon22.png" />
+    <file src="components/weapons/weapon23.png" />
+    <file src="components/weapons/weapon24.png" />
+    <file src="components/weapons/weapon25.png" />
+    <file src="components/weapons/weapon26.png" />
+    <file src="components/weapons/weapon27.png" />
+    <file src="components/weapons/weapon28.png" />
+    <file src="components/weapons/weapon29.png" />
+    <file src="components/weapons/weapon3.png" />
+    <file src="components/weapons/weapon30.png" />
+    <file src="components/weapons/weapon31.png" />
+    <file src="components/weapons/weapon32.png" />
+    <file src="components/weapons/weapon33.png" />
+    <file src="components/weapons/weapon34.png" />
+    <file src="components/weapons/weapon35.png" />
+    <file src="components/weapons/weapon36.png" />
+    <file src="components/weapons/weapon37.png" />
+    <file src="components/weapons/weapon38.png" />
+    <file src="components/weapons/weapon39.png" />
+    <file src="components/weapons/weapon4.png" />
+    <file src="components/weapons/weapon40.png" />
+    <file src="components/weapons/weapon41.png" />
+    <file src="components/weapons/weapon42.png" />
+    <file src="components/weapons/weapon43.png" />
+    <file src="components/weapons/weapon44.png" />
+    <file src="components/weapons/weapon45.png" />
+    <file src="components/weapons/weapon46.png" />
+    <file src="components/weapons/weapon5.png" />
+    <file src="components/weapons/weapon6.png" />
+    <file src="components/weapons/weapon7.png" />
+    <file src="components/weapons/weapon8.png" />
+    <file src="components/weapons/weapon9.png" />
+    
+</meta>
