@@ -1,0 +1,42 @@
+<meta>
+
+    <!--Client Scripting Team-->
+
+    <oop>true</oop>
+    
+    <script src='shared.lua' type='shared'/>
+    <script src='server-side.lua' type='server'/>
+    <script src='client-side.lua' type='client' cache='false'/>
+
+    <file src='index.html'/>
+    <file src='bullet.html'/>
+    <file src='armor.html'/>
+    <file src='skin.html'/>
+    <file src='items.html'/>
+
+    <file src='css/bootstrap.min.css'/>
+    <file src='css/style.css'/>
+
+    <file src='images/banner.png'/>
+
+    <file src='images/weapons/deagle.png'/>
+    <file src='images/weapons/mp-5.png'/>
+    <file src='images/weapons/shotgun.png'/>
+    <file src='images/weapons/m4.png'/>
+    <file src='images/weapons/sniper.png'/>
+    <file src='images/weapons/combat-shotgun.png'/>
+
+    <file src='images/bullets/general.png'/>
+
+    <file src='images/armor/general.png'/>
+
+    <file src='images/skins/male.png'/>
+    <file src='images/skins/female.png'/>
+
+    <file src='images/items/handcuff.png'/>
+    <file src='images/items/radio.png'/>
+    <file src='images/items/dutybelt.png'/>
+    <file src='images/items/nightstick.png'/>
+
+    <file src='images/Roboto.ttf'/>
+</meta>
