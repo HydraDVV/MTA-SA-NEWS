@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+    <script src="sourceG.lua" type="shared" />
+    <script src="sourceS.lua"  type="server"/>
+	<script src="sourceC.lua" type="client" cache="false" />
+</meta>
