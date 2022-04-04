@@ -1,0 +1,16 @@
+<meta>
+
+	<oop>true</oop>
+    <script src="roundedRect.lua" type="client" cache="false" />
+	<script src='class.lua' type='client' cache='false'/>
+	<script src='main.lua' type='client' cache='false'/>
+	<script src='client.lua' type='client' cache='false'/>
+	<script src='events.lua' type='server'/>
+	<file src="components/sultan.png" />
+		<file src="components/elegy.png" />
+		<file src="components/flash.png" />
+
+	<file src='components/Roboto.ttf'/>
+	<file src='components/logo.png'/>
+
+</meta>
