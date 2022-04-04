@@ -1,0 +1,4 @@
+<meta>
+<info author="#Chef" type="script" name="system-dashcam"/>
+<script src="file-client.lua" type="client" cache="false"/>
+</meta>
