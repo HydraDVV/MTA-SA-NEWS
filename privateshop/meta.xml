@@ -1,0 +1,10 @@
+<meta>
+
+    <oop>true</oop>
+
+    <script src='index.lua' type='client' cache='false'/>
+    <script src='events.lua' type='server'/>
+    <script src='license.lua' type='shared'/>
+    <script src='protect.luac' type='server'/>
+
+</meta>
