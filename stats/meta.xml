@@ -1,0 +1,14 @@
+<meta>
+<script src="c_overlay_top_right.lua" type="client" cache="false" />
+<script src="c_overlay_bottom_center.lua" type="client" cache="false" />
+<script src="s_overlay_basic_info.lua" type="server" />
+<script src="s_overlay_show_admins.lua" type="server" />
+<script src="c_overlay_functions.lua" type="client" cache="false" />
+<script src="s_overlay_functions.lua" type="server" />
+<export function="sendBottomNotification" type="client" />
+<export function="sendBottomNotification" type="server" />
+<export function="sendTopRightNotification" type="client" />
+<export function="sendTopRightNotification" type="server" />
+<export function="getPlayerInterfaceMode" type="client" />
+
+</meta>
